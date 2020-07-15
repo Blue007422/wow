@@ -1,62 +1,62 @@
 /5 @Répartition des healers 1er Boss BWL (Tranchetripe)
-/5 MT1 => Candice(R+B), Joulay, Floreil , Bison
-/5 MT2 => Chand, Bison
-/5 CAC, Ranged => Ayamé, Meka, Gliphe, Kumal, Dae
+/5 MT1 => Chand(R+B), Dae, Ayamé, Bison
+/5 MT2 => Floreil, Bison
+/5 CAC, Ranged => Meka, Magolie
 
 
 /5 @Répartition des healers 2eme Boss BWL (Vaelastrasz) 
-/5 Rénov + Shield préfight => Candice, HoT 8part => Joulay
-/5 MT1 => Dae, Gliphe
+/5 Rénov + Shield préfight => Candice
+/5 MT1 => Dae, Chand
 /5 Pretre POH Groupe + FH les groupes sans Prêtres
 /5 Bison MT1 + HoT groupe MT
-/5 Meka, Kumal sur Raid
+/5 Meka, Magolie sur Raid
 
 
 /5 @Répartition des healers 3eme Boss BWL (Lashlayer)
-/5 Cast pendant le placement => Candice
-/5 MT1 => Candice(R+B), Chand, Joulay, Bison
-/5 MT2 (précast) => Floreil, Bison
-/5 CAC, Ranged => Ayamé, Meka, Gliphe, Kumal, Dae
+/5 Cast pendant le placement => Floreil
+/5 MT1 => Ayamé(R+B), Chand, Floreil, Bison
+/5 MT2 (précast) => Dae, Bison
+/5 CAC, Ranged => Meka, Magolie, Sama
 
 
 /5 @Répartition des healers 4eme Boss BWL (Gueule-de-feu)
 /5 Buff RO pre-fight
-/5 MT1 => Joulay, Floreil, Candice(R+B), Bison HOT
-/5 MT2 (précast) => Chand
-/5 CAC, Ranged => Ayamé, Meka, Gliphe, Kumal, Dae
+/5 MT1 => Floreil(R+B), Chand, Dae, Bison HOT
+/5 MT2 (précast) => Ayamé
+/5 CAC, Ranged => Meka, Magolie, Sama
 
 
 /5 @Répartition des healers 5eme Boss BWL (Rochébène)
-/5 MT1 => Candice(R+B), Joulay, Bison
-/5 MT2 => Dae, Chand
-/5 MT3 => Floreil, Bison
-/5 Raid => Kumal, Ayamé, Meka, Gliphe
+/5 MT1 => Chand(R+B), Ayamé, Bison
+/5 MT2 => Floreil, Bison
+/5 MT3 => Dae, Bison
+/5 Raid => Meka, Magolie
 
 
 /5 @Répartition des healers 6eme Boss BWL (Flamegor)
-/5 MT1 => Candice(R+B), Chand, Joulay, Bison
-/5 MT2 => Floreil, Dae, Bison
+/5 MT1 => Chand(R+B), Floreil, Bison
+/5 MT2 => Dae, Bison
 /5 CAC,Ranged => Meka, Gliphe, Kumal, Ayamé
 
 
 /5 @Répartition des healers 7eme Boss BWL (Chrommagus)
-/5 MT1 => Candice(R+B), Joulay, Floreil, Bison
-/5 Dispell Magie => Dae, Ayamé
-/5 Dispell Maladie => Meka, Gliphe
-/5 Dispell Poison => Meka, Bison
-/5 CAC,Ranged => Gliphe, Chand, Ayamé, Kumal
+/5 MT1 => Floreil(R+B), Chand, Ayamé, Bison
+/5 Dispell Magie => Dae, Sama
+/5 Dispell Maladie => Magolie, Meka
+/5 Dispell Poison => Magolie, Bison
+/5 CAC,Ranged => Meka, Magolie, Sama
 
 
 /5 @Répartition des healers 8eme Boss BWL (Néfarian)
-/5 Blood => Candice(R+B), Chand, Joulay, Floreil, Bison
-/5 CAC,Ranged => Ayamé, Meka, Gliphe, Dae
+/5 MT1 => Chand, Dae, Floreil, Bison
+/5 CAC,Ranged => Ayamé, Meka, Magolie
 /5 Dispell magie => Ayamé, Daenedry, Floreil
 /5 Buff RO pre-fight
 
 
 /5 @Répartition des healers TRASH BWL
-/5 Crane => Candice(R+B), Ayamé
-/5 Croix => Joulay(R+B), Meka
-/5 Carre => Daenedry(R+B), Gliphe 
-/5 Lune => Floreil(R+B), Bison
-/5 CAC, Ranged => Kumal, Chand + pretre quand pas de MT 3, 4
+/5 Crane => Floreil(R+B), Bison
+/5 Croix => Chand(R+B), Bison
+/5 Carre => Daenedry(R+B), Meka 
+/5 Lune => Ayamé(R+B), Magolie
+/5 CAC, Ranged => Quand vous pouvez
